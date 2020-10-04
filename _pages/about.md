@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+![Logotipo do PECIMAT](../images/Pecimat_1280x640.png)
 
 Este é o site do PECIMAT, o grupo de pesquisa
   - em ensino de Matemática com tecnologias e também 
