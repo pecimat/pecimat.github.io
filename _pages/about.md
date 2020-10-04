@@ -18,23 +18,32 @@ EM CONSTRUÇÃO
 
 # Prof. Dr. Samuel Rocha de Oliveira 
 
-Bacharel (1983) e mestre (1986) em Física pela Universidade de Brasília e Ph.D.(1992) in Physics pela University of Texas at Austin. Professor Livre Docente da Universidade Estadual de Campinas no departamento de Matemática Aplicada desde 1996. Tem pesquisa em Física-Matemática principalmente nos seguintes temas: relatividade geral, gravitação, buracos negros, relatividade numérica, computação científica, astrofísica e equações diferenciais parciais. 
+Bacharel (1983) e mestre (1986) em Física pela Universidade de Brasília e Ph.D.(1992) in Physics pela University of Texas at Austin. Professor Livre Docente da Universidade Estadual de Campinas no departamento de Matemática Aplicada desde 1996. Tem pesquisa em Física-Matemática principalmente nos seguintes temas: relatividade geral, gravitação, buracos negros, relatividade numérica, computação científica, astrofísica e equações diferenciais parciais.
+
 ![Samuel 3x4](../images/Samuel3x4.png) _Foto de Setembro/2020_ 
+
 Tem atuado também na área de Educação Matemática e de Divulgação Científica, principalmente nos seguintes temas: recursos didáticos digitais, objetos de aprendizagem, aprendizagem de matemática em multimídia digital, produção de programas de áudio e vídeo e tecnologias no ensino de matemática.
 Veja o [CV Lattes]( http://lattes.cnpq.br/9839813543918575)
 
-# Profa. Dra. Rubia 
-_boa gente_
+# Profa. Dra. Rúbia Barcelos Amaral-???????
+Professora Livre-Docente do Departamento de Educação Matemática da UNESP - Rio Claro-SP e vinculada ao Programa de Pós-Graduação em Educação Matemática - PPGEM. Possui graduação em Licenciatura em Matemática pela UNESP - Universidade Estadual Paulista Júlio de Mesquita Filho (2000); Mestrado, Doutorado e Livre-Docência em Educação Matemática também pela UNESP (2002, 2007, 2017) e Pós-Doutorado na NCSU - North Carolina State University (2016). Trabalhou na Universidade Estadual de Campinas - UNICAMP e mantem-se professora colaboradora do Programa de Pós-Graduação Multiunidades em Ensino de Ciências e Matemática (PECIM). Lecionou também em instituições de ensino médio e superior e tem experiência na área de Educação Matemática, com ênfase em Tecnologia e Educação à Distância, atuando principalmente nos seguintes temas: Aprendizagem da Matemática, Tecnologia Informática e Formação de Professores. Publicou artigos em periódicos especializados e trabalhos em anais de eventos no Brasil e no exterior. Possui capítulos de livros publicados e produções técnicas. É autora do livro "Educação a distância online". Orienta pesquisas de Iniciação Científica, Mestrado e Doutorado. Atualmente é chefe do Departamento de Educação Matemática, Vice-coordenadora do curso de Matemática e Coordenadora do Pibid - Núcleo Rio Claro e São José do Rio Preto.
+Veja o [CV Lattes](http://lattes.cnpq.br/5875288343819683)
+
 
 ## Prof. Dr. Valdinei Cardoso 
 Doutor em Ensino de Ciências e Matemática pela Faculdade de Educação da Universidade Estadual de Campinas (2014). Mestre em Educação para a Ciência e o Ensino de Matemática pela Universidade Estadual de Maringá(2010). Especialista em Educação Matemática pela União das Escolas Superiores do Vale do Ivaí (2002). Graduado em Matemática pela Universidade Estadual de Maringá(2001), Professor Adjunto do Departamento de Matemática Aplicada do Centro Universitário Norte do Espírito Santo da Universidade Federal do Espírito Santo. 
+
 ![Valdinei 3x4](../images/Valdinei3x4.png) _Foto de Setembro/2020_
+
 Atua na área de pesquisa de Educação Matemática com ênfase na Modelagem Matemática na educação matemática, jogos digitais, modelos mentais, teoria dos campos conceituais, teoria cognitiva da aprendizagem multimídia, teoria das Representações Semióticas, vídeos digitais no ensino de matemática, educação à distância e novas tecnologias. É coordenador do Grupo de pesquisa Mídias e Matemática (MidMat) no Centro Universitário Norte do Espírito Santo(CEUNES) da Universidade Federal do Espírito Santo.
+[CV Lattes](http://lattes.cnpq.br/3560165817659228)
 
 ### Doutoranda Marília Franceschinelli de Souza 
 
 Professora de Matemática do Instituto Federal de São Paulo (IFSP), Câmpus Hortolândia, atuando na Educação Básica, Superior e Formação de Professores. Graduada em Matemática Aplicada e Computacional (2005) e em Licenciatura em Matemática pela Universidade Estadual de Campinas (2008) e Mestra em Matemática pelo Programa em rede nacional - PROFMAT (2014), realizado na Unicamp. 
+
 ![Marilia 3x4](../images/Marilia27set20.png) _Foto de Setembro/2020_
+
 Possui experiência na docência do Ensino Fundamental Anos Finais, Médio e superior, e em projetos interdisciplinares e de educação não-formal. Atualmente é doutoranda em Ensino de Matemática pelo PECIM - Programa de Pós-graduação em Ensino de Ciências e Matemática, UNICAMP, realizando pesquisa com formação de professores com tecnologias. É membro do Grupo de Pesquisa em Educação Matemática e Tecnologia (GPEMATEC-IFSP) e do Grupo de Pesquisa PECIMAT: Tecnologias Digitais em Educação Matemática (UNICAMP). É praticante e entusiasta de Ginástica pata todos (GPT).
 Veja o [CV Lattes](http://lattes.cnpq.br/3428751536777364)
 
