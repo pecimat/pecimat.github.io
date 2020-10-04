@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "pecimat"
+title: #"pecimat"
 excerpt: "Sobre"
 author_profile: true
 redirect_from: 
@@ -16,7 +16,7 @@ Este é o site do PECIMAT, o grupo de pesquisa
 [Veja o registro de grupos no CNPq](http://dgp.cnpq.br/dgp/espelhogrupo/50534)
 
 Formado em 2011 no PECIM, program interunidades de pós-graduação em 
-ensino de ciências e matemática da Unicamp e com os seguintes membros:
+ensino de ciências e matemática da Unicamp e com os **seguintes membros**:
 
 _EM CONSTRUÇÃO_
 
