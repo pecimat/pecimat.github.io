@@ -43,7 +43,9 @@ Doutor em Ensino de Ciências e Matemática pela Faculdade de Educação da Univ
 [CV Lattes](http://lattes.cnpq.br/3560165817659228)
 
 ### Doutoranda Marília Franceschinelli de Souza 
-![Marilia 3x4](../images/Marilia27set20.png) _Foto de Setembro/2020_
+![Marilia 3x4](../images/Marilia27set20.png) 
+
+_Foto de Setembro/2020_
 
 Professora de Matemática do Instituto Federal de São Paulo (IFSP), Câmpus Hortolândia, atuando na Educação Básica, Superior e Formação de Professores. Graduada em Matemática Aplicada e Computacional (2005) e em Licenciatura em Matemática pela Universidade Estadual de Campinas (2008) e Mestra em Matemática pelo Programa em rede nacional - PROFMAT (2014), realizado na Unicamp. 
 Possui experiência na docência do Ensino Fundamental Anos Finais, Médio e superior, e em projetos interdisciplinares e de educação não-formal. Atualmente é doutoranda em Ensino de Matemática pelo PECIM - Programa de Pós-graduação em Ensino de Ciências e Matemática, UNICAMP, realizando pesquisa com formação de professores com tecnologias. É membro do Grupo de Pesquisa em Educação Matemática e Tecnologia (GPEMATEC-IFSP) e do Grupo de Pesquisa PECIMAT: Tecnologias Digitais em Educação Matemática (UNICAMP). É praticante e entusiasta de Ginástica pata todos (GPT).
