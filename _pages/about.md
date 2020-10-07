@@ -59,3 +59,10 @@ _Foto de Outubro/2020_
 Graduado em Matemática pela USP (2009-2015), Mestre em Ensino de Ciências pela UNESP (2016-2018) na linha de pesquisa Informática em ensino de ciências e matemática, Doutorado em ensino de ciências pela UNICAMP (2019 -). Experiência em Teoria das Medidas, Jogos, Ensino de Matemática e Ciências, Pensamento Computacional, Ciência da Computação Desconectada, Ensino de Demonstração de Teoremas, Divulgação Científica de Matemática. Pesquisador do grupo ["Estudos da Educação Infantil e da Primeira Infância: Políticas e Programas" CNPQ - UNESP](http://dgp.cnpq.br/dgp/espelhogrupo/7191345846551508), membro do Grupo de Pesquisa ["PECIMAT: Tecnologias Digitais na Educação Matemática " CNPQ - UNICAMP](http://dgp.cnpq.br/dgp/espelhogrupo/5095321310667411) e do [Grupo de Pesquisa" Robótica Pedagógica CNPQ - UNICAMP](http://dgp.cnpq.br/dgp/espelhogrupo/5536226919069661). Editor do [Blog de Divulgação Científica ZERO](https://www.blogs.unicamp.br/zero/), com o tema Formalismo e Ludicidade, e vinculado à UNICAMP.
 
 Veja o [CV Lattes]( http://lattes.cnpq.br/6130937835002478)
+
+### Doutoranda Fabiana Santos Cotrim
+![Fabiana 3x4](../images/Fabiana20.png)
+
+Bacharel (2008) e licenciada (2010) em Matemática pela UFSCar - São Carlos, mestre (2011) em Matemática pelo Programa de Pós Graduação em Matemática da UFSCar e atualmente, doutoranda em Ensino de Ciências e Matemática pelo Programa de Pós-Graduação Multiunidades em Ensino de Ciências e Matemática da UNICAMP na linha de formação de professores com foco no conhecimento do professor de matemática no ensino superior. É docente efetiva na UFSCar - campus Lagoa do Sino na área de matemática, alocada no Centro de Ciências da Natureza. Tem experiência em matemática na área de topologia algébrica, especificamente em Teoria de Nielsen, mas agora tem interesse em formação de professores e ensino de matemática.
+
+Veja o [CV Lattes](http://lattes.cnpq.br/5304106217466160)
