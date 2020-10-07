@@ -16,9 +16,7 @@ Este é o site do PECIMAT, o grupo de pesquisa
 [Veja o registro de grupos no CNPq](http://dgp.cnpq.br/dgp/espelhogrupo/50534)
 
 Formado em 2011 no PECIM, program interunidades de pós-graduação em 
-ensino de ciências e matemática da Unicamp e com os **seguintes membros**:
-
-_EM CONSTRUÇÃO_
+ensino de ciências e matemática da Unicamp e com os **seguintes membros** em ordem _peculiar_:
 
 ## Prof. Dr. Samuel Rocha de Oliveira 
 ![Samuel 3x4](../images/Samuel3x4.png) 
