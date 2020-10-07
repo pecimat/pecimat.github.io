@@ -61,6 +61,8 @@ Veja o [CV Lattes]( http://lattes.cnpq.br/6130937835002478)
 ### Doutoranda Fabiana Santos Cotrim
 ![Fabiana 3x4](../images/FabianaJan20.png)
 
+_Foto de Janeiro/2020_
+
 Bacharel (2008) e licenciada (2010) em Matemática pela UFSCar - São Carlos, mestre (2011) em Matemática pelo Programa de Pós Graduação em Matemática da UFSCar e atualmente, doutoranda em Ensino de Ciências e Matemática pelo Programa de Pós-Graduação Multiunidades em Ensino de Ciências e Matemática da UNICAMP na linha de formação de professores com foco no conhecimento do professor de matemática no ensino superior. É docente efetiva na UFSCar - campus Lagoa do Sino na área de matemática, alocada no Centro de Ciências da Natureza. Tem experiência em matemática na área de topologia algébrica, especificamente em Teoria de Nielsen, mas agora tem interesse em formação de professores e ensino de matemática.
 
 Veja o [CV Lattes](http://lattes.cnpq.br/5304106217466160)
