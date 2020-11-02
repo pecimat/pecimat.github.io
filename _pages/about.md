@@ -66,3 +66,13 @@ _Foto de Janeiro/2020_
 Bacharel (2008) e licenciada (2010) em Matemática pela UFSCar - São Carlos, mestre (2011) em Matemática pelo Programa de Pós Graduação em Matemática da UFSCar e atualmente, doutoranda em Ensino de Ciências e Matemática pelo Programa de Pós-Graduação Multiunidades em Ensino de Ciências e Matemática da UNICAMP na linha de formação de professores com foco no conhecimento do professor de matemática no ensino superior. É docente efetiva na UFSCar - campus Lagoa do Sino na área de matemática, alocada no Centro de Ciências da Natureza. Tem experiência em matemática na área de topologia algébrica, especificamente em Teoria de Nielsen, mas agora tem interesse em formação de professores e ensino de matemática.
 
 Veja o [CV Lattes](http://lattes.cnpq.br/5304106217466160)
+
+### Doutoranda Mariana 
+![Mariana 3x4](../images/Mariana3x4.jpeg)
+
+_Foto de Dezembro/2019_
+
+Doutoranda em Ensino de Ciências e Matemática pela Universidade Estadual de Campinas - Unicamp, Mestra em Educação em Ciências e Matemática pelo Instituto Federal do Espírito Santo - Ifes. Possui graduação em Licenciatura Plena em Matemática pela Universidade Federal do Espírito Santo/Ceunes (2005). Especialista em Ensino na Educação Básica, àrea de concentração Matemática pela Universidade Federal do Espírito Santo/Ceunes (2011). Tem experiência na área de Educação Matemática, atuando principalmente nos seguintes temas: Formação de Professores, Modelo dos Campos Semânticos, Educação Matemática Crítica, Empoderamento Docente. Membra do Grupo de pesquisa PeciMATIC e Gepemem. É professora do Instituto Federal do Espírito Santo - Campus Nova Venécia.
+
+Veja o [CV Lattes](http://lattes.cnpq.br/6684778801921463)
+
