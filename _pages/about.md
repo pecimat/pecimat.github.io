@@ -67,7 +67,7 @@ Bacharel (2008) e licenciada (2010) em Matemática pela UFSCar - São Carlos, me
 
 Veja o [CV Lattes](http://lattes.cnpq.br/5304106217466160)
 
-### Doutoranda Mariana 
+### Doutoranda Mariana dos Santos Cezar
 ![Mariana 3x4](../images/Mariana3x4.jpeg)
 
 _Foto de Dezembro/2019_
