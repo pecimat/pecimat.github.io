@@ -68,7 +68,7 @@ Bacharel (2008) e licenciada (2010) em Matemática pela UFSCar - São Carlos, me
 Veja o [CV Lattes](http://lattes.cnpq.br/5304106217466160)
 
 ### Doutoranda Mariana dos Santos Cezar
-![Mariana 3x4](../images/Mariana3x4.jpeg)
+![Mariana 3x4](../images/Mariana3x4.png)
 
 _Foto de Dezembro/2019_
 
@@ -76,3 +76,11 @@ Doutoranda em Ensino de Ciências e Matemática pela Universidade Estadual de Ca
 
 Veja o [CV Lattes](http://lattes.cnpq.br/6684778801921463)
 
+### Doutorando Ricardo Inácio Batista Jr
+![Ricardo 3x4](../images/Foto_Ricardo_Batista.png)
+
+_Foto de Outubro/2020_
+
+Professor EBTT do curso de Licenciatura em Matemática do IFSP - Instituto Federal de São Paulo (desde 2013). Doutorando pelo Programa de Pós-Graduação Multiunidades em Ensino de Ciências e Matemática pela UNICAMP - Universidade Estadual de Campinas (desde 2019). Mestre pelo Programa de Mestrado Profissional em Matemática em Rede Nacional da UNESP - Universidade Estadual Paulista &quot;Júlio de Mesquita&quot; (2014). Licenciado em Matemática pela UNICAMP (2004). Coordenador dos Cursos Técnicos Integrados ao Ensino Médio de Automação Industrial, Informática e Mecânica (2016-2017) e Coordenador do Curso de Licenciatura em Matemática (2017), ambos do IFSP, campus Hortolândia. Tem experiência no ensino de Matemática na educação básica (desde 1999) e superior (desde 2010). Pesquisa atualmente os seguintes temas: Tecnologias Digitais aplicadas ao Ensino da Matemática; Educação Financeira e Matemática Financeira. Integra o Grupo de Pesquisa PECIMAT: Tecnologias Digitais em Educação Matemática da UNICAMP (desde 2019) e o Grupo de Pesquisa GIEMAG da UNESP (desde 2018).
+
+Veja o [CV Lattes]( http://lattes.cnpq.br/4816332059615968)
