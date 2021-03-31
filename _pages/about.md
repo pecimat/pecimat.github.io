@@ -88,3 +88,13 @@ _Foto de Outubro/2020_
 Professor EBTT do curso de Licenciatura em Matemática do IFSP - Instituto Federal de São Paulo (desde 2013). Doutorando pelo Programa de Pós-Graduação Multiunidades em Ensino de Ciências e Matemática pela UNICAMP - Universidade Estadual de Campinas (desde 2019). Mestre pelo Programa de Mestrado Profissional em Matemática em Rede Nacional da UNESP - Universidade Estadual Paulista &quot;Júlio de Mesquita&quot; (2014). Licenciado em Matemática pela UNICAMP (2004). Coordenador dos Cursos Técnicos Integrados ao Ensino Médio de Automação Industrial, Informática e Mecânica (2016-2017) e Coordenador do Curso de Licenciatura em Matemática (2017), ambos do IFSP, campus Hortolândia. Tem experiência no ensino de Matemática na educação básica (desde 1999) e superior (desde 2010). Pesquisa atualmente os seguintes temas: Tecnologias Digitais aplicadas ao Ensino da Matemática; Educação Financeira e Matemática Financeira. Integra o Grupo de Pesquisa PECIMAT: Tecnologias Digitais em Educação Matemática da UNICAMP (desde 2019) e o Grupo de Pesquisa GIEMAG da UNESP (desde 2018).
 
 Veja o [CV Lattes]( http://lattes.cnpq.br/4816332059615968) de Ricardo Inácio Batista Jr
+
+### Doutorando Sandra Menezes
+![Ricardo 3x4](../images/Foto_Ricardo_Batista.png)
+
+_Foto de Março/2021_
+
+Doutoranda do Programa de Pós-Graduação Multiunidades em Ensino de Ciências e Matemática - PECIM/UNICAMP. Mestre em Modelagem Computacional – UERJ. Especialista na área de Tecnologia da Educação – PUC. Especialista no Ensino da Matemática para Professores do Ensino Fundamental e Médio - UFF. Graduada em Licenciatura em Matemática – UERJ. Participou dos cursos de Aperfeiçoamento para Professores de Matemática do Ensino Médio no IMPA (2008, 2009, 2010). Professora multiplicadora do NTE (2005 - 2011). Professora Especialista de Matemática (2011- 2013) no programa Redefor. Professora Supervisora do curso de Matemática (2012 - 2013), do projeto do Pró-letramento. Professora Supervisora da formação continuada em Matemática (2014 - 2015) no programa PNAIC. Professora Colaboradora desde 2014 dos cursos de extensão - Especialização em Matemática para professores dos ensinos Fundamental e Médio - LEM/IMECC/UNICAMP. Facilitadora no curso de graduação em Matemática pela UNIVESP (2019 - 2020). Atua desde 2005 no ensino a distância com ênfases em Educação Matemática. Desde de novembro de 2020 possui bolsa Capes, qualificou em fevereiro de 2021. Trabalha nos seguintes temas: Tecnologias Digitais, Metodologias Ativas, Formação Continuada de Professores de Matemática e Ensino a distância. 
+
+Veja o [CV Lattes]( http://lattes.cnpq.br/0329680299677101) de Sandra Menezes
+
