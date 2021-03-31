@@ -89,7 +89,7 @@ Professor EBTT do curso de Licenciatura em Matemática do IFSP - Instituto Feder
 
 Veja o [CV Lattes]( http://lattes.cnpq.br/4816332059615968) de Ricardo Inácio Batista Jr
 
-### Doutorando Sandra Menezes
+### Doutoranda Sandra Menezes
 ![Sandra 3x4](../images/foto_sandra.jpg)
 
 _Foto de Março/2021_
