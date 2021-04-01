@@ -1,15 +1,10 @@
 ---
-title: "Paper Title Number 2"
+title: "Aprendizagens docentes na elaboração de uma atividade-matemática-com-vídeo"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+date: 2020-10-01
+venue: 'ANAIS DO XIV EPEM'
+paperurl: 'https://drive.google.com/file/d/1EeTFJIySPBODpZoYDH1pOC07iyYuGu9X/view'
+citation: 'SOUZA, M. F. (2020). &quot;Aprendizagens docentes na elaboração de uma atividade-matemática-com-vídeo.&quot; <i>ANAIS DO XIV EPEM</i>. 1(2).'
 ---
-This paper is about the number 2. The number 3 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Este trabalho apresenta resultados parciais de uma pesquisa de doutorado e tem como objetivo analisar as aprendizagens docentes de um professor ocorridas em um curso de formação focado no uso de vídeos como recurso didático, que se constituiu como comunidade de aprendizagem. [...]
