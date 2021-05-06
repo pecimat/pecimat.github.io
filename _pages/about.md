@@ -18,7 +18,7 @@ Este é o site do PECIMAT, o grupo de pesquisa
 Formado em 2011 no PECIM, programa interunidades de pós-graduação em 
 ensino de ciências e matemática, da Unicamp conta com os **seguintes membros** em ordem _peculiar_:
 
-## Prof. Dr. Samuel Rocha de Oliveira 58
+## Prof. Dr. Samuel Rocha de Oliveira
 ![Samuel 3x4](../images/Samuel3x4.png) 
 
 _Foto de Setembro/2020_ 
